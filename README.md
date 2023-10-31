@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 🚀 Ejecutar:
 ```
-npm instal
+npm install
 npm run dev
 ```
